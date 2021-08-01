@@ -1,0 +1,26 @@
+[
+    {   
+        "id": 0,
+        "img": "/images/p1.jpg",
+        "name": "Apple's Desktop",
+        "price": 30000
+    },
+    {
+        "id": 1,
+        "img": "/images/p2.jpg",
+        "name": "Apple's Laptop",
+        "price": 50000
+    },
+    {
+        "id": 2,
+        "img": "/images/p3.jpg",
+        "name": "Apple's Macbook",
+        "price":  70000
+    },
+    {
+        "id": 3,
+        "img": "/images/p4.jpg",
+        "name": "Apple's iPhone",
+        "price": 90000
+    }
+] 
